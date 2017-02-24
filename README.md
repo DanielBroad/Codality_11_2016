@@ -11,4 +11,4 @@ Contains my solution to several Codality challenges in ObjC-2.0
 
 # Stack Machine
 
-Also contains a utility to create a randonm array of integer test data for use during challenges
+Also contains a utility to create a random array of integer test data for use during challenges
